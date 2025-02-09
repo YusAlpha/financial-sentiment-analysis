@@ -8,7 +8,7 @@ Pour les récupérer correctement, suivez ces étapes :
    brew install git-lfs       # Pour macOS
 
 2️⃣ **Clonez le dépôt** 
-git clone https://github.com/ton-repo.git
+git clone https://github.com/ton-repo.git](https://github.com/YusAlpha/financial-sentiment-analysis)
 
 3️⃣ **Accédez au dossier du projet** 
 cd financial-sentiment-analysis
