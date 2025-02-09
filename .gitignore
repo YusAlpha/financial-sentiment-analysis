@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+github_ssh_key
+github_ssh_key.pub
