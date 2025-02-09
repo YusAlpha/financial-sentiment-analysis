@@ -7,13 +7,13 @@ Pour les récupérer correctement, suivez ces étapes :
    sudo apt install git-lfs  # Pour Ubuntu/Debian
    brew install git-lfs       # Pour macOS
 
-2️⃣ Clonez le dépôt
+2️⃣ **Clonez le dépôt** 
 git clone https://github.com/ton-repo.git
 
-3️⃣ Accédez au dossier du projet
+3️⃣ **Accédez au dossier du projet** 
 cd financial-sentiment-analysis
 
-4️⃣ Téléchargez les fichiers LFS
+4️⃣ **Téléchargez les fichiers LFS** 
 git lfs pull
 
 ✅ C'est tout ! Vos fichiers sont maintenant prêts à être utilisés.
