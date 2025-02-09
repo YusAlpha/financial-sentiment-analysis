@@ -1,0 +1,3 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+finbert_trained/model.safetensors filter=lfs diff=lfs merge=lfs -text
+finbert_train_embeddings.npy filter=lfs diff=lfs merge=lfs -text
